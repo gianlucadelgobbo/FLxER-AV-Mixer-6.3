@@ -1,0 +1,16 @@
+<root>
+	<oscCtrl oscAddress="/left" fnz="leftbutton" ch="5" direct="1" />
+	<oscCtrl oscAddress="/right" fnz="rightbutton" ch="5" direct="1" />
+	<oscCtrl oscAddress="/restart" fnz="enterbutton" ch="5" direct="1" />
+	<oscCtrl oscAddress="/showhide" fnz="showhide" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setRestitutionCircle" fnz="setRestitutionCircle" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setRestitutionControls" fnz="setRestitutionControls" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setRestitutionMap" fnz="setRestitutionMap" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setControlColorRed" fnz="setControlColorRed" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setControlColorGreen" fnz="setControlColorGreen" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setControlColorBlue" fnz="setControlColorBlue" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setBallColorRed" fnz="setBallColorRed" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setBallColorGreen" fnz="setBallColorGreen" ch="5" direct="1" />
+	<oscCtrl oscAddress="/setBallColorBlue" fnz="setBallColorBlue" ch="5" direct="1" />
+	<oscCtrl oscAddress="/auto" fnz="setAuto" ch="5" direct="1" />
+</root>

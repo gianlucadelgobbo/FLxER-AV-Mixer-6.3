@@ -1,0 +1,15 @@
+<root>
+	<midiCtrl midiID="B053" fnz="tap" ch="auto" val="1" midiVal="1" />
+	<midiCtrl midiID="B011" fnz="zoomOneByOne" val="-10" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B010" fnz="zoomOneByOne" val="10" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B078" fnz="reset" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B051" fnz="stopPlay" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B003" fnz="rewind" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B07B" fnz="hideShow" ch="auto" midiVal="0" />
+	<midiCtrl midiID="B012" fnz="libraryScroller" val="1" ch="auto" midiVal="0" />	
+	<midiCtrl midiID="B013" fnz="libraryScroller" val="-1" ch="auto" midiVal="0"  />
+	<midiCtrl midiID="B00B" fnz="slider" val="0,100" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B048" fnz="redMovie" val="-255,255" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B048" fnz="greenMovie" val="-255,255" ch="auto" midiVal="0,7F" />
+	<midiCtrl midiID="B04A" fnz="bluMovie" val="-255,255" ch="auto" midiVal="0,7F" />
+</root>

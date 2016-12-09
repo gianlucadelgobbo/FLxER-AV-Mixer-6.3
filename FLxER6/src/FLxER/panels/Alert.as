@@ -1,0 +1,1 @@
+﻿package FLxER.panels {	class Alert extends Palette {		public var fnz;		var fnzTrgt;		public function Alert(w,h,t,tt) {			super(w,h,t,tt);			this.palette.ok = new Button(w-51, this.palette.txt.height+this.palette.txt.y, 40, 10, "OK", myCancel);		}		public function myCancel() {			if (fnz) {				fnzTrgt[fnz]();			}			this.removeMovieClip()		}	}}

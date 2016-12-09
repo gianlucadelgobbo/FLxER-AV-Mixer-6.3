@@ -1,0 +1,1 @@
+﻿package FLxER.modules.MappingSVG {	import flash.display.Sprite;	public class MySprite extends Sprite {		public var id:uint;		public function MySprite() {			super();		}	}		}

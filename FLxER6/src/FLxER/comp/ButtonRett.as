@@ -1,0 +1,1 @@
+﻿package FLxER.comp {	import FLxER.main.Rett;	public class ButtonRett extends ButtonBase {		public function ButtonRett(xx:uint,yy:uint,ww:uint,hh:uint,f:Function, p:String, alt:String, a:Number):void {			super(xx, yy, ww, hh, f, p, alt);			rett = new Rett(0,0,w,h,Preferences.pref.myCol.bkgCol,-1,a);			this.addChild(rett);		}	}}
